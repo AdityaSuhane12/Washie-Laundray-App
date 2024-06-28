@@ -1,6 +1,6 @@
 # Washie - The Laundry App
 
-![Washie Logo]((https://github.com/AdityaSuhane12/Washie-Laundray-App/blob/main/Screenshot%202024-06-28%20213734.png))
+![Washie Logo](Screenshot%202024-06-28%20213734.png)
 
 ## Project Overview
 
