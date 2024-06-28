@@ -1,6 +1,6 @@
 # Washie - The Laundry App
 
-![Washie Logo 1](Screenshot%2024-06-28%213812.png )
+![Washie Logo 1](Screenshot%202024-06-28%20213812.png)
 ![Washie Logo 2](Screenshot%202024-06-28%20213734.png)
 ## Project Overview
 
