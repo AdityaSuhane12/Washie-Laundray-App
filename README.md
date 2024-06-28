@@ -1,7 +1,7 @@
 # Washie - The Laundry App
 
-![Washie Logo](Screenshot 2024-06-28 213812.png , Screenshot%202024-06-28%20213734.png)
-
+![Washie Logo](Screenshot 2024-06-28 213812.png )
+![Washie Logo 2](Screenshot%202024-06-28%20213734.png)
 ## Project Overview
 
 Washie is a comprehensive laundry management app developed as a minor project for the partial fulfillment of the requirements for the Bachelor of Technology degree in Computer Science & Engineering. This project was guided by Ajaj Khan and completed by:
