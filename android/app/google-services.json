@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525395199644",
+    "project_id": "loginapp121",
+    "storage_bucket": "loginapp121.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525395199644:android:e553825866a589f2db4f59",
+        "android_client_info": {
+          "package_name": "com.example.map_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9TfTZdFZA_TUqVD9uEJSN5LBCU0_UkXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
